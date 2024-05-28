@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sessionrepo/static/css/main.19602296.css",
+    "main.js": "/sessionrepo/static/js/main.78fbc5ce.js",
+    "static/js/453.b25e3508.chunk.js": "/sessionrepo/static/js/453.b25e3508.chunk.js",
+    "index.html": "/sessionrepo/index.html",
+    "main.19602296.css.map": "/sessionrepo/static/css/main.19602296.css.map",
+    "main.78fbc5ce.js.map": "/sessionrepo/static/js/main.78fbc5ce.js.map",
+    "453.b25e3508.chunk.js.map": "/sessionrepo/static/js/453.b25e3508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19602296.css",
+    "static/js/main.78fbc5ce.js"
+  ]
+}
